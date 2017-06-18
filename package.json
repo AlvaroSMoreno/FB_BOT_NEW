@@ -1,0 +1,23 @@
+{
+  "name": "fb_bot_new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "facebook-chat-api": "^1.2.0",
+    "fs": "0.0.1-security",
+    "google-translate-api": "^2.2.2",
+    "image-downloader": "^2.0.3",
+    "node-gyp": "^3.5.0",
+    "node-webcam": "^0.3.4",
+    "qrnode": "^0.1.0",
+    "request": "^2.79.0",
+    "serialport": "^4.0.7"
+  }
+}
